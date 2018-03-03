@@ -1,0 +1,12 @@
+1000	Nathaniel Hasson	40	
+1001	James Sonnier	55	Math
+1002	Peter J. McCleary	31	Math
+1003	Mark H. Stephens	68	Anthropology
+1004	Joseph D. Morehouse	36	Art
+1005	Mary M. Mahle	59	Computer Science
+1006	Dr. Kim	21	Computer Science
+1007	Amber Pinkerton	44	English
+1008	Jim Johnson	34	Science
+1009	Sam Li	41	Engineering/Computer Science
+1010	Barry White	62	Music
+1011	L. Wessley	37	Computer Science

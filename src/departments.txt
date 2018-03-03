@@ -1,0 +1,7 @@
+math
+science
+english
+Computer Science
+Engineering
+Art
+Music

@@ -1,0 +1,13 @@
+	Ronald King	9	\N	0
+
+	Stephen Pchoa	2	english	3
+4	yolo dolo	88	math	0
+	Steven Gonzalez	28	Computer Science	0
+	Dante Suarez	25	Computer Science	0
+	Chris Van Horn	25	Computer Science	0
+	Bryan Sosa	21	Math	0
+	Adrian Barrien	18	Science	0
+	Joe Anderson	22	Music	0
+	Amanda Stone	20	English	0
+	Robert Bonkman	24	Art	0
+	John Perez	23	Engineering	0

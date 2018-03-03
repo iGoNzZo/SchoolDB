@@ -1,0 +1,22 @@
+101	Statistics	1002	Math	0	30	3
+102	Calculus 1	1002	Math	0	30	3
+103	Calculus 2	1001	Math	0	30	3
+104	American Literature	1004	English	0	30	3
+105	Biology 54	1003	Science	0	30	3
+106	Anthropology	1003	Science	0	30	3
+107	Geology	1	1008	Science	0	30	3
+108	Java Programming 1	1011	Computer Science	0	30	3
+109	Object Oriented Design	1006	Computer Science	0	30	3
+110	Programming in C	1011	Computer Science	0	30	3
+111	Advanced C++	1011	Computer Science	0	30	3
+112	Database Management 1	1006	Computer Science	0	30	3
+113	Database Management 2	1006	Computer Science	0	30	3
+114	Engineering 1	1009	Engineering	0	30	3
+115	Engineering 2	1009	Engineering	0	30	3
+116	Engineering 3	1009	Engineernig	0	30	3
+117	English 100W	1007	English	0	30	3
+118	Philosophy 101	1007	English	0	30	3
+119	World Jazz	1010	Music	0	30	3
+120	World of Art	1004	Art	0	30	3
+121	Computer Architecture	1005	Computer Science	0	30	3
+122	Information Security	1008	Computer Science	0	30	3
